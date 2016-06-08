@@ -1,0 +1,55 @@
+
+.dog-brand-1 {
+	display: inline-block;
+	width:45%;
+	text-align: center;
+	background-color: yellow;
+}
+.dog-brand-2 {
+	display: inline-block;
+	width: 45%;
+	text-align: center;
+	background-color: yellow;
+}
+.cat-brand-1 {
+	display: inline-block;
+	width:45%;
+	text-align: center;
+	background-color: yellow;
+	height: 450px;
+}
+.cat-brand-2 {
+	display: inline-block;
+	width:45%;
+	text-align: center;
+	background-color: yellow;\
+	height: 450px;
+}
+.type-1a {
+	margin: 5%;
+}
+.type-2a {
+	margin: 5%;
+}
+.type-3a {
+	margin: 5%;
+}
+.type-4a {
+	margin: 5%;
+}
+.type-1b {
+	margin: 5%;
+}
+.type-2b {
+	margin: 5%;
+}
+.type-3b {
+	margin: 5%;
+}
+.type-4b {
+	margin: 5%;
+}
+div {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
